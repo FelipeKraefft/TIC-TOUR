@@ -11,6 +11,8 @@ public class ContinuosMovement : MonoBehaviour
     public float gravity = -9.81f;
     public LayerMask groundLayer;
     public float additionalHeight = 0.2f;
+    public float CameraFix;
+    public Transform cameraTR;
 
     private float fallingSpeed;
     private XRRig rig;
@@ -29,6 +31,12 @@ public class ContinuosMovement : MonoBehaviour
     {
         InputDevice device = InputDevices.GetDeviceAtXRNode(inputSource);
         device.TryGetFeatureValue(CommonUsages.primary2DAxis, out inputAxis);
+        Invoke("FixCameraOffset", 1f);
+    }
+
+    void FixCameraOffset()
+    {
+        cameraTR.position = new Vector3(cameraTR.position.x, -CameraFix, cameraTR.position.z);
     }
 
     private void FixedUpdate()
@@ -55,7 +63,7 @@ public class ContinuosMovement : MonoBehaviour
 
     void CapsuleFollowHeadSet()
     {
-        character.height = rig.cameraInRigSpaceHeight + additionalHeight;
+        character.height = rig.cameraInRigSpaceHeight - additionalHeight;
         Vector3 capsuleCenter = transform.InverseTransformPoint(rig.cameraGameObject.transform.position);
         character.center = new Vector3(capsuleCenter.x, character.height / 2 + character.skinWidth, capsuleCenter.z);
     }
