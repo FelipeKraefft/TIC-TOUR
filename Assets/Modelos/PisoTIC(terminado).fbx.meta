@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: eda32031b1259c743a5b16680c7a07ae
+guid: 23035eb148f6cdd44883bbc0da628573
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -212,111 +212,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Material.019
     second: {fileID: 2100000, guid: 19d0a04b754f08f498914e141104dfa8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.020
-    second: {fileID: 2100000, guid: e50ae890b789f5a4882b02d504d832b6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.021
-    second: {fileID: 2100000, guid: 87bae3c88b2cc114499b7e55e843f718, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.022
-    second: {fileID: 2100000, guid: d0528a6638e514b478476c9488ab0411, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.023
-    second: {fileID: 2100000, guid: d61be823dee7a7c40915cf2294e370f7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.024
-    second: {fileID: 2100000, guid: 23297b82f0a580e448a5109109787096, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.025
-    second: {fileID: 2100000, guid: 3b9bf22ce533d9e41a929c77bf1a2a77, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.026
-    second: {fileID: 2100000, guid: ff01515bb9d6ecf428c8232f56da02ce, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.027
-    second: {fileID: 2100000, guid: 6d04c73d483307344b4e646f3c6dc3ce, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.028
-    second: {fileID: 2100000, guid: 3567ccf0ef3412348b38d7db26d95216, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.029
-    second: {fileID: 2100000, guid: 8865364219c28384f8f7c42ebb0c0505, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.030
-    second: {fileID: 2100000, guid: 371ef7bfd32258145bdaba478fce3417, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.031
-    second: {fileID: 2100000, guid: 85db930c2d1e0b241ba4b3a20686ab4c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.032
-    second: {fileID: 2100000, guid: 4d9631ee7c8c0d545bb130865209859c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.033
-    second: {fileID: 2100000, guid: b864d0a2d9f7cea49b88c5833311fb1d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.034
-    second: {fileID: 2100000, guid: bc40d01a12785ac449909df65b8bde8f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.035
-    second: {fileID: 2100000, guid: 6329d0e8b1547e14ba8b133dcdae103a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.036
-    second: {fileID: 2100000, guid: 9781bcba905cbd848b1bc47d1f321f3b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.037
-    second: {fileID: 2100000, guid: 32a6ef59338009845b44f09d78c4b913, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.038
-    second: {fileID: 2100000, guid: ffdaed2ea3b9e3f4883a2335392a08e0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.039
-    second: {fileID: 2100000, guid: 914170027d88dac42a2cc5b8905d0d83, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.040
-    second: {fileID: 2100000, guid: 9455ee542d2cdb94086b04d416f8c59e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -690,11 +585,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.130
-    second: {fileID: 2100000, guid: 9eaa779384cbf474493db46a6b32b907, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Material.131
     second: {fileID: 2100000, guid: b7e30f68589d1d44992aea180c103e1d, type: 2}
   - first:
@@ -712,11 +602,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Material.135
     second: {fileID: 2100000, guid: c70022fff92b75f4197f8a53288d882a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.136
-    second: {fileID: 2100000, guid: 7926fc7dba9315d4a977696995ab3ca7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -965,41 +850,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Rojo
-    second: {fileID: 2100000, guid: 3749fb6958057d348bcdbb99c17066b2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Rojo.001
-    second: {fileID: 2100000, guid: 39e15541f918d8745920a9a53ef6056e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Rojo.002
-    second: {fileID: 2100000, guid: 02d401147486ebe48927e392f5d05cb8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Rojo.003
-    second: {fileID: 2100000, guid: 979bbfb2472c9f14a9d911d877abf660, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Rojo.004
-    second: {fileID: 2100000, guid: 2663480463e6b0c4581585df2b8e786e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Rojo.005
-    second: {fileID: 2100000, guid: 51fb65e987d8d6842912cae38d88e44a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Rojo.006
-    second: {fileID: 2100000, guid: 95a3fa5240678aa46a4893f6be0ee8b1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Rojo.007
     second: {fileID: 2100000, guid: 0eb18f9ce18ad8f4298d05f593c85ac5, type: 2}
   - first:
@@ -1060,21 +910,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: goma negra
-    second: {fileID: 2100000, guid: 3ee6bc6d35249b14aba1648523fd0ad4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: goma negra de la puerta
-    second: {fileID: 2100000, guid: abe04317449a2974388e8491d7c8add4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: goma negra de la puerta.001
-    second: {fileID: 2100000, guid: 9114188854e5cfb49b9e3df01ca8d89e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: goma negra de la puerta.002
     second: {fileID: 2100000, guid: 67a0f8196d7f118408254abb405bf91d, type: 2}
   - first:
@@ -1085,11 +920,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: goma negra.001
-    second: {fileID: 2100000, guid: 4630e8d4f824a5f449b95d93edf2fdf8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: goma negra.002
     second: {fileID: 2100000, guid: 6c96304709de483468507200e57ef679, type: 2}
   - first:
@@ -1097,11 +927,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: goma negra.003
     second: {fileID: 2100000, guid: 79dd9853fe91b6344907e252615d61bd, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: gomanegra
-    second: {fileID: 2100000, guid: e3540a17250ccb84194e0bb3d5f6c85a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1200,16 +1025,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: puerta
-    second: {fileID: 2100000, guid: 5b87f226017766f4083f965af6e99749, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: puerta.001
-    second: {fileID: 2100000, guid: 43ba8ce5441a3704ea5197b9da2d65c3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: puerta.002
     second: {fileID: 2100000, guid: f3b56c29ca2d13e41bab8e2011071e39, type: 2}
   - first:
@@ -1217,11 +1032,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: puerta.003
     second: {fileID: 2100000, guid: 95c2c35a39bb32f41b193123a093f577, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: rueda.001
-    second: {fileID: 2100000, guid: ce79c5f9bae431c448f6ea03a2d7c742, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -1236,157 +1046,157 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: 1779664
-    second: {fileID: 2800000, guid: 8449fc80f64412046b0ec2673cd08d14, type: 3}
+    second: {fileID: 2800000, guid: 73da072794a0434479f8505ba2785340, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: 1779664 (3)
-    second: {fileID: 2800000, guid: 60dc369cd09495e4f946c7699ea1ff55, type: 3}
+    second: {fileID: 2800000, guid: 7fe3bccad2ea8e04e835a0f12f878817, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: 20220502_113333
-    second: {fileID: 2800000, guid: 09d0d6d7dc0fe2b4fa8a0de4cff67352, type: 3}
+    second: {fileID: 2800000, guid: f99bcc6cfae6b3041a7f8c066de2b49a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Albert
-    second: {fileID: 2800000, guid: 22ba2d23cc8fa9c448c4d0de2261e6d8, type: 3}
+    second: {fileID: 2800000, guid: c0130fdd9200a7e42b5d8302eee0a69b, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: App
-    second: {fileID: 2800000, guid: 0e90c4170de9b5e42b2c9712e0aa60a4, type: 3}
+    second: {fileID: 2800000, guid: b4efad6373bd3c140a3dd6df9feb64d3, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: "Ba\xF1os"
-    second: {fileID: 2800000, guid: c7b1c42609d302540ab9813801a49f3f, type: 3}
+    second: {fileID: 2800000, guid: 767c3f25bc444bc4bb41cb0355e49aad, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BlockChain
-    second: {fileID: 2800000, guid: 0befccb9f09da964c93e87854ef7f647, type: 3}
+    second: {fileID: 2800000, guid: 032fb82cacead03438ba5cfcbfb71d97, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BrickTexture
-    second: {fileID: 2800000, guid: d9eb9ea6b81e80241a054ffb3273502e, type: 3}
+    second: {fileID: 2800000, guid: 661c31a276db2a14b9b427d8c9064ea7, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Elon Musk
-    second: {fileID: 2800000, guid: 566d4361fffff59478d1d70a6de27152, type: 3}
+    second: {fileID: 2800000, guid: 91f134cfdb453894db2555137052c6f8, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: IA
-    second: {fileID: 2800000, guid: 5799fd46f2af6ec499e6a14671037ca9, type: 3}
+    second: {fileID: 2800000, guid: 69fba12a63cc69c4a8bd86d5a8dc67bc, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: IoT
-    second: {fileID: 2800000, guid: 1c45e422b0acae44ba00f2ec4771d7e3, type: 3}
+    second: {fileID: 2800000, guid: 22ba5b9b532be934196ad9ec22d75d9f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Marissa
-    second: {fileID: 2800000, guid: 0bdfe0f8e9548074bb6176ca35b403ac, type: 3}
+    second: {fileID: 2800000, guid: fd3bf51de8adeb74090ee85a380df2a0, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Paleta
-    second: {fileID: 2800000, guid: be9da2ae758158d46a18dfe378d4ba3a, type: 3}
+    second: {fileID: 2800000, guid: 1d6e6113b8c9a2c4b84e1396f26e456c, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Paleta 32
-    second: {fileID: 2800000, guid: 8e2224621d6b7ba43a1bba86563b79d4, type: 3}
+    second: {fileID: 2800000, guid: a9bdacdf53e16444280f9b96c0416620, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Paleta de Colores
-    second: {fileID: 2800000, guid: a77c779108a888644a038fc29218e9de, type: 3}
+    second: {fileID: 2800000, guid: d16bcbbeb621b5e409984705bde9cf7b, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Sat
-    second: {fileID: 2800000, guid: 5b9161345f825c44eac94fe874257b3d, type: 3}
+    second: {fileID: 2800000, guid: 3102fa4fbb15df142bdbbecd674d16f1, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Sheryl Sandberg
-    second: {fileID: 2800000, guid: 1027e22881ab04e40bf6246e99514aff, type: 3}
+    second: {fileID: 2800000, guid: 3420e887c4d01884783222168a24ea52, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Soc
-    second: {fileID: 2800000, guid: 75b045914ee2bde4e81b42b77768c4d9, type: 3}
+    second: {fileID: 2800000, guid: da2f79c342dcebe4c9694435e3a352d2, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: VJ
-    second: {fileID: 2800000, guid: 0d22c41b0bd2dba42b47d6aeb0c60da9, type: 3}
+    second: {fileID: 2800000, guid: bffb370fbee05c648a59091f09cb2459, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: VR
-    second: {fileID: 2800000, guid: 91d945da1af0e7f43a4f93b26c8cd2c0, type: 3}
+    second: {fileID: 2800000, guid: b0c5bf30145b6e04c91e453e6f0ff163, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: descarga (1)
-    second: {fileID: 2800000, guid: 82bda0b9786ba3f468143e64b9faa797, type: 3}
+    second: {fileID: 2800000, guid: 3715fe471acf3da40b591fd239fcda97, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: kikai-labs-1
-    second: {fileID: 2800000, guid: 1f6ce58f0fe4f87409ba79abfb2d459b, type: 3}
+    second: {fileID: 2800000, guid: d1a07a9f26b0b3946980524433eab38d, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: lH8yTHvm
-    second: {fileID: 2800000, guid: aa5fe8a5776a50d41bee3c07896f9259, type: 3}
+    second: {fileID: 2800000, guid: d382df017db5925478175b3843c0f833, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: paleta de colores
-    second: {fileID: 2800000, guid: 29a0f20ca7606264ea04c9072683bccb, type: 3}
+    second: {fileID: 2800000, guid: 75e9f10e3ff91574da311fb46fb27924, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: paleta-de-colores-grises-1024x576
-    second: {fileID: 2800000, guid: 235383f777fed1943bdf9e5a0596e54b, type: 3}
+    second: {fileID: 2800000, guid: 0086d2ab3ca4186448d5d7cf5c86b24b, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: paleta32
-    second: {fileID: 2800000, guid: c8a31aff4c6449e4885bea8603250550, type: 3}
+    second: {fileID: 2800000, guid: 7dae540123d63354b81c7673d5e8c1a0, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: paleta32 (1)
-    second: {fileID: 2800000, guid: 15070f049d1035840b2dd004ff339fe0, type: 3}
+    second: {fileID: 2800000, guid: 3efc35a9019fa424fba064ef5386f5b6, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: palette47
-    second: {fileID: 2800000, guid: af5e2dc3c00a8894a9e503bea6e8d28f, type: 3}
+    second: {fileID: 2800000, guid: cee76973ddb06bc41ae88425a5377ded, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: pallet 32 colores
-    second: {fileID: 2800000, guid: 42b0e2f0465e6ef4993c5354a60aaedd, type: 3}
+    second: {fileID: 2800000, guid: df182153f22963644aa92eb6ea005ca2, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: peliita
-    second: {fileID: 2800000, guid: e47df81d1bf1d994b9e6c4f0a322011b, type: 3}
+    second: {fileID: 2800000, guid: 0ce6a572c24a6fd48acaac906b544e22, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: prohibido_pasar
-    second: {fileID: 2800000, guid: 23a28a95af3da83499f4c00556e95f9b, type: 3}
+    second: {fileID: 2800000, guid: d93a3d32239ae104d8e2a979bd134b95, type: 3}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -1449,7 +1259,7 @@ ModelImporter:
     tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
-    blendShapeNormalImportMode: 1
+    blendShapeNormalImportMode: 0
     normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 1
