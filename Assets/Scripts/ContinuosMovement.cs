@@ -29,6 +29,7 @@ public class ContinuosMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        CapsuleFollowHeadSet();
         InputDevice device = InputDevices.GetDeviceAtXRNode(inputSource);
         device.TryGetFeatureValue(CommonUsages.primary2DAxis, out inputAxis);
         Invoke("FixCameraOffset", 1f);
