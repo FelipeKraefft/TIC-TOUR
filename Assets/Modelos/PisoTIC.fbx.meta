@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d336bc9ffb8d5824b98efeae89dfe2f0
+guid: 0ee1120ee5440fd48ba425437e905139
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -1021,157 +1021,157 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: 1779664
-    second: {fileID: 2800000, guid: fc02cddcb297e9c4b8b3dc9ee0395cea, type: 3}
+    second: {fileID: 2800000, guid: a24a4c6b3ba6ae84f8fe2e393979fbd1, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: 1779664 (3)
-    second: {fileID: 2800000, guid: c486236be5f09d543acab63d6516a4fb, type: 3}
+    second: {fileID: 2800000, guid: 35fc17d4edd356549be67ae3422046d9, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: 20220502_113333
-    second: {fileID: 2800000, guid: dffa740e3815496478260f8342fe2b4f, type: 3}
+    second: {fileID: 2800000, guid: 37f3cd421227e62418d82e0004183b2e, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Albert
-    second: {fileID: 2800000, guid: 65c201e20b2445d49b19a7988c698353, type: 3}
+    second: {fileID: 2800000, guid: cf8e57eca4265f7468cf00bf75f70b23, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: App
-    second: {fileID: 2800000, guid: 2f0815025acbf2f46a591f605726e414, type: 3}
+    second: {fileID: 2800000, guid: a31001b5d187cde43bbc3a03bf3ffb82, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: "Ba\xF1os"
-    second: {fileID: 2800000, guid: 56ac424669dd14c43beb74cca1795a5a, type: 3}
+    second: {fileID: 2800000, guid: 9c9c678229b856441a19376648e1193d, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BlockChain
-    second: {fileID: 2800000, guid: 6a3101e7cf97e9f41990768fbe1e6987, type: 3}
+    second: {fileID: 2800000, guid: d136a43da950de94a89d58e633671707, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: BrickTexture
-    second: {fileID: 2800000, guid: 4a3e179a77b422c40996a7c98b3ec8bb, type: 3}
+    second: {fileID: 2800000, guid: 47303a16962ad46449a5eb83ab623b4e, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Elon Musk
-    second: {fileID: 2800000, guid: 00702b62ff0f8b44f9777935cf757305, type: 3}
+    second: {fileID: 2800000, guid: 142073d5e30430d4c91eba66273d70d9, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: IA
-    second: {fileID: 2800000, guid: 12b8e8d9f780d0244b1719b7f8e7d61b, type: 3}
+    second: {fileID: 2800000, guid: 44bd32f13dd1c3944b1716491e4df0dd, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: IoT
-    second: {fileID: 2800000, guid: c8b8dcad5e409aa42893874e26f8f646, type: 3}
+    second: {fileID: 2800000, guid: 7ed10cde740528647925871464a86022, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Marissa
-    second: {fileID: 2800000, guid: f135fa649b5a18742a4360dca00739bc, type: 3}
+    second: {fileID: 2800000, guid: daaf3fd23dad71448833430c7074c10e, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Paleta
-    second: {fileID: 2800000, guid: 4c680c4fdac727d4c9c40d041cb31d14, type: 3}
+    second: {fileID: 2800000, guid: f30e44753480c3443ad47e236ecefa70, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Paleta 32
-    second: {fileID: 2800000, guid: c49da730ad817384eb55c6239522bc25, type: 3}
+    second: {fileID: 2800000, guid: 347a79c41f75f294c8445545a5922c19, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Paleta de Colores
-    second: {fileID: 2800000, guid: 7a3ed48a86d12ec4685e6f8ac6dc8a13, type: 3}
+    second: {fileID: 2800000, guid: 891d0eb50de199541aab4e07fd4dc331, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Sat
-    second: {fileID: 2800000, guid: 65a4f022e002798459cc1d6d16fc618f, type: 3}
+    second: {fileID: 2800000, guid: b8b74e1caa12c024c802978b1510c05b, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Sheryl Sandberg
-    second: {fileID: 2800000, guid: e50d53e50a7603649a67b914050465dc, type: 3}
+    second: {fileID: 2800000, guid: 41e831449da1fe549bb9ad49d9802170, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Soc
-    second: {fileID: 2800000, guid: dd024a71487dc674f95a995629502912, type: 3}
+    second: {fileID: 2800000, guid: 121faac3ac786804fb6cb8787b2ca9f7, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: VJ
-    second: {fileID: 2800000, guid: 7b76b0e9b68b4a045a285052c242f99e, type: 3}
+    second: {fileID: 2800000, guid: 9d835e630a6917f45bdcd9c0b70ddd5a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: VR
-    second: {fileID: 2800000, guid: ba8aa2cf29aca5e48b50e01fa00aa2b5, type: 3}
+    second: {fileID: 2800000, guid: 5cca613e35dc5794a9aac6a63ea35e6f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: descarga (1)
-    second: {fileID: 2800000, guid: 3a7d1799d9c5f3c42ad85b7f05a34017, type: 3}
+    second: {fileID: 2800000, guid: b5722eab47c182042bd421c471e1642f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: kikai-labs-1
-    second: {fileID: 2800000, guid: cbe20a9eb857cc14f9ce918d442be9ec, type: 3}
+    second: {fileID: 2800000, guid: cfbe7b2dfad29e442b3b5e72178a0e68, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: lH8yTHvm
-    second: {fileID: 2800000, guid: 5b1f44a51745d8946a82ea864424e65c, type: 3}
+    second: {fileID: 2800000, guid: 86c65bbe8b952e5449754fe54f8e70c1, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: paleta de colores
-    second: {fileID: 2800000, guid: a36404eef0baf73468542737293b4664, type: 3}
+    second: {fileID: 2800000, guid: d34087d77bd52fb41a82fa456a61e849, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: paleta-de-colores-grises-1024x576
-    second: {fileID: 2800000, guid: 668a2b2ee50e3ae47ab4d6fa9af44d67, type: 3}
+    second: {fileID: 2800000, guid: 5ef4a75ee2d515149a191ab6749f31d0, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: paleta32
-    second: {fileID: 2800000, guid: 736c4d1b2f8ab244c933a8934ca4d85a, type: 3}
+    second: {fileID: 2800000, guid: e01ccdd8ea2afba41bd7df461c2f34c8, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: paleta32 (1)
-    second: {fileID: 2800000, guid: 949b54c4a3864bf4b922fcbd5bea8995, type: 3}
+    second: {fileID: 2800000, guid: 2b6b5e0a11e46704ca26d55e2b97ae5b, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: palette47
-    second: {fileID: 2800000, guid: ea261ef2294238f4594837140ae2c249, type: 3}
+    second: {fileID: 2800000, guid: 999244cc1ed8e154e8ede4a43ba1c166, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: pallet 32 colores
-    second: {fileID: 2800000, guid: af10b372baa32c64d8c0766379ff8eca, type: 3}
+    second: {fileID: 2800000, guid: 7b60397ae97a24c4190cd2dc8bfdc603, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: peliita
-    second: {fileID: 2800000, guid: 80b619f343e1ccd41bdd13eb66816149, type: 3}
+    second: {fileID: 2800000, guid: 570a7b75406a21b41aaac5e017623277, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: prohibido_pasar
-    second: {fileID: 2800000, guid: 4a6488f119f5fa14bb15fbecafcd5b88, type: 3}
+    second: {fileID: 2800000, guid: e3fa49f07f3a2c745bba0ca43b47e29c, type: 3}
   materials:
     materialImportMode: 1
     materialName: 0
