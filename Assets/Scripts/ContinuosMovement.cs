@@ -29,7 +29,7 @@ public class ContinuosMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        CapsuleFollowHeadSet();
+        CapsuleFollowHeadSetHTC();
         InputDevice device = InputDevices.GetDeviceAtXRNode(inputSource);
         device.TryGetFeatureValue(CommonUsages.primary2DAxis, out inputAxis);
         Invoke("FixCameraOffset", 1f);
@@ -62,9 +62,15 @@ public class ContinuosMovement : MonoBehaviour
         character.Move(Vector3.up * fallingSpeed * Time.fixedDeltaTime);
     }
 
-    void CapsuleFollowHeadSet()
+    void CapsuleFollowHeadSetOculus()
     {
         character.height = rig.cameraInRigSpaceHeight - additionalHeight;
+        Vector3 capsuleCenter = transform.InverseTransformPoint(rig.cameraGameObject.transform.position);
+        character.center = new Vector3(capsuleCenter.x, character.height / 2 + character.skinWidth, capsuleCenter.z);
+    }
+
+    void CapsuleFollowHeadSetHTC(){
+        character.height = rig.cameraInRigSpaceHeight;
         Vector3 capsuleCenter = transform.InverseTransformPoint(rig.cameraGameObject.transform.position);
         character.center = new Vector3(capsuleCenter.x, character.height / 2 + character.skinWidth, capsuleCenter.z);
     }
