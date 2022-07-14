@@ -23,5 +23,10 @@ public class SceneRestart : MonoBehaviour
         {
             SceneManager.LoadScene(0);
         }
+
+        if (Input.GetKeyDown(KeyCode.W))
+        {
+            SceneManager.LoadScene(1);
+        }
     }
 }
